@@ -1,6 +1,6 @@
 projectKey=gradle-github-sonar
 serverUrl=http://localhost:9000
-serverVersion=8.2.0.32929
+serverVersion=7.9.2.30863
 dashboardUrl=http://localhost:9000/dashboard?id=gradle-github-sonar
-ceTaskId=AXCeqTeXUKXIh-N63MJQ
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXCeqTeXUKXIh-N63MJQ
+ceTaskId=AXClcZ6syLy6DOjeeJ4T
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXClcZ6syLy6DOjeeJ4T
